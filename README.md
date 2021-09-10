@@ -9,7 +9,7 @@ How to contribute to open source- First contribution practise
 Repo for you to raise a Pull Request for practice.
 
 ## Name
-KAKOOZA ABRAHAM JEERY
+KAKOOZA ABRAHAM JERRY
 
 ## How to contribute
 
